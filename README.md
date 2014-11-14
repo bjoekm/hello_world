@@ -7,6 +7,19 @@ Follows a guiHub guide to learn about repos and issues and other features in Git
 Is NOT meant for any code to be written - just learn repo managment.
 
 
+Apperently I need to add some more.
+for some reason there seems to be sometihng of with the carriage returns here.... I test
+
+
+
+
+
+
+
+That should be about 7 extra lines...
+
+
+
 
 
 
